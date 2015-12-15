@@ -111,6 +111,10 @@ noremap <Leader>t: :Tabularize /^[^:]*:\zs/l0l1<CR>
 noremap <Leader>t> :Tabularize /=><CR>
 noremap <Leader>t, :Tabularize /,\zs/l0l1<CR>
 
+let g:tex_flavor='latex'
+let g:Tex_Folding=0
+let g:Tex_AutoFolding=0
+
 """""""""""""""""""""""""
 " Custom functions
 """""""""""""""""""""""""

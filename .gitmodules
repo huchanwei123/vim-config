@@ -81,3 +81,6 @@
 	path = bundle/ifdef-highlighting
 	url = git://github.com/vim-scripts/ifdef-highlighting
 	ignore = dirty
+[submodule "bundle/latex-suite"]
+	path = bundle/latex-suite
+	url = git://github.com/gerw/vim-latex-suite
