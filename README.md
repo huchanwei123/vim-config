@@ -9,7 +9,7 @@ To install, run
 
 You might need
 ```
-    git config --global url."https://".insteadOf git:// 
+git config --global url."https://".insteadOf git:// 
 ```
 
 To update the repository, run
